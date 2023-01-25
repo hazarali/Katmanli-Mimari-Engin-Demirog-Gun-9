@@ -1,0 +1,9 @@
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Ali Hazar\source\repos\KatmanlIProje\Core\obj\Debug\netstandard2.0\Core.pdb
